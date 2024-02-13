@@ -1,0 +1,31 @@
+{
+        "_index": "packets-2024-01-20",
+        "_type": "doc",
+        "_score": null,
+        "_source": {
+            "layers": {
+                "frame": {
+                    "frame.section_number": "1",
+                    "frame.interface_id": "0",
+                    "frame.interface_id_tree": {
+                        "frame.interface_name": "en0",
+                        "frame.interface_description": "Wi-Fi"
+                      },
+                    "frame.encap_type": "1",
+                    "frame.time": "Jan 20, 2024 15:32:00.921141000 +03",
+                    "frame.time_utc": "Jan 20, 2024 12:32:00.921141000 UTC",
+                    "frame.time_epoch": "1705753920.921141000",
+                    "frame.offset_shift": "0.000000000",
+                    "frame.time_delta": "0.000334000",
+                    "frame.time_delta_displayed": "0.000000000",
+                    "frame.time_relative": "32.871909000",
+                    "frame.number": "7951",
+                    "frame.len": "165",
+                    "frame.cap_len": "165",
+                    "frame.marked": "0",
+                    "frame.ignored": "0",
+                    "frame.protocols": "eth:ethertype:ip:tcp:tls:http2"
+                }
+            }
+        }
+    }
